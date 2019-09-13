@@ -1,0 +1,3 @@
+div.Category\:Accessories .grid-product__colors:before {
+    color: #b08730;
+}
