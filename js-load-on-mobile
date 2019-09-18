@@ -1,0 +1,4 @@
+        if (screen && screen.width <= 768) { // mobile
+          findmine.render('.findmine-mobile');
+          $('.findmine-mobile .fm-wrap:nth-child(2)').remove();
+        }
