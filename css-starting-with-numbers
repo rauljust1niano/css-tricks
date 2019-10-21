@@ -1,0 +1,5 @@
+<div class="10">hello</div>
+
+.\31 0 {color: red;}
+
+[class="10"] {color: red;}
